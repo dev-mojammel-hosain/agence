@@ -76,7 +76,7 @@ $(function(){
 
 })
 
-// new WOW().init();
+new WOW().init();
 
 const navAll = document.querySelector('.navbar');
 window.addEventListener('scroll', () =>{
